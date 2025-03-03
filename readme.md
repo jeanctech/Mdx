@@ -1,4 +1,4 @@
-# Mdx - Documentation
+# Mdx
 
 ## By - JeanCarlos Jimenez - @jeanctech
 
